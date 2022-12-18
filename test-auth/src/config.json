@@ -1,0 +1,8 @@
+
+  config:
+    REGION: 'eu-east-1'
+    USER_POOL_ID: 'us-east-1_novo68LLP'
+    APP_CLIENT_ID: '2tqr92j33llskd82mp1ogc3epq'
+    IDENTITY_POOL_ID: 'us-east-1:c243f9b0-1cae-44c1-87d8-26ba79819716'
+    TEST_USER_NAME: 'behnam'
+    TEST_USER_PASSWORD: 'Be200513!'
